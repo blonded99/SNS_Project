@@ -7,11 +7,11 @@
 <br/>
 
 ### :couple: 멤버
-@yydev10 - 사용자 프로필 조회 및 수정, 게시글 관련 기능
+@[yydev10](https://www.github.com/yydev10) - 사용자 프로필 조회 및 수정, 게시글 관련 기능
 
-@blonded99 - 채팅, 팔로잉 관련 기능
+@[blonded99](https://www.github.com/blonded99) - 채팅, 팔로잉 관련 기능
 
-@suho123123 - 회원가입 및 로그인, 댓글 관련 기능
+@[suho123123](https://www.github.com/suho123123) - 회원가입 및 로그인, 댓글 관련 기능
 
 <br/>
 
