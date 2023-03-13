@@ -1,8 +1,10 @@
 # 안드로이드 앱 Spread
 <br/>
 
-### :iphone: 소개
+### :computer: 소개
 학교 수업 프로젝트로 만든 SNS 앱
+<br/>
+<img width="7%" src="https://user-images.githubusercontent.com/101057189/224712988-56be44f9-e6ec-4ceb-a03a-35b5df9796b8.jpg"/>
 
 <br/>
 
@@ -22,3 +24,15 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=Github&logoColor=white"/>
 </div>
+
+<br/><br/>
+
+## :iphone: 동작 화면
+<div align="left">
+  <img width="30%" src="https://user-images.githubusercontent.com/101057189/224708194-945de230-0e56-45ad-a6c2-241762184f1b.gif"/>
+  <img width="30%" src="https://user-images.githubusercontent.com/101057189/224711109-53c5b170-d17a-4f38-8626-798f91f8e1b8.gif"/>
+  <img width="30%" src="https://user-images.githubusercontent.com/101057189/224711156-6caddb13-99a6-49cf-a684-b1bb38aa5a5c.gif"/>
+  <img width="30%" src="https://user-images.githubusercontent.com/101057189/224711173-29bbeadc-b9fc-46dc-bf1b-69cd8025d2bd.gif"/>
+  <img width="30%" src="https://user-images.githubusercontent.com/101057189/224711199-005a5c48-1b90-4060-9937-cf246f285037.gif"/>
+</div>
+
